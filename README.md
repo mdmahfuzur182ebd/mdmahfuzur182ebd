@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Md.MahfuzurRahman, final year CS student. From Dhaka,Bangladesh.
+I'm Md.Mahfuzur Rahman, Final Year CS Student. From Dhaka,Bangladesh.
 
 
 **mdmahfuzur182ebd/mdmahfuzur182ebd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
