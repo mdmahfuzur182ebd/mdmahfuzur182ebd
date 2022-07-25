@@ -4,7 +4,7 @@
 
 I'm Md.Mahfuzur Rahman, Final Year CS Student. From Dhaka,Bangladesh.
 
-Skills: Python/Django/JavaScript/REACT / JS / React Native/ HTML / CSS..
+Skills: Python /Django /REACT / JS / React Native / HTML / CSS..
 
 -  I’m currently working on React-Native/Mobile Application 
 -  I’m currently learning Full Stack Web Development(With Python and JavaScript) 
