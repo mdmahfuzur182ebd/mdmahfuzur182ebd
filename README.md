@@ -28,10 +28,5 @@ Skills: Python/Django/JavaScript/REACT / JS / React Native/ HTML / CSS..
 
 ![Profile views](https://gpvc.arturio.dev/mdmahfuzur182ebd)  
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
