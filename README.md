@@ -6,10 +6,10 @@ I'm Md.Mahfuzur Rahman, Final Year CS Student. From Dhaka,Bangladesh.
 
 Skills: Python/Django/JavaScript/REACT / JS / React Native/ HTML / CSS..
 
-- 🔭 I’m currently working on React-Native/Mobile Application 
-- 🌱 I’m currently learning Full Stack Web Development(With Python and JavaScript) 
-- 👯 I’m looking to collaborate on Github  
-- 💬 Ask me about Mobile Application 
+-  I’m currently working on React-Native/Mobile Application 
+-  I’m currently learning Full Stack Web Development(With Python and JavaScript) 
+-  I’m looking to collaborate on Github  
+-  Ask me about Mobile Application 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdmahfuzur182ebd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahfuzur-rahman-1a8024191/)  
